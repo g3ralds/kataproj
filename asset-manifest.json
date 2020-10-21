@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b2085b2.chunk.css",
-    "main.js": "/static/js/main.5c1b1642.chunk.js",
-    "main.js.map": "/static/js/main.5c1b1642.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ac65f6e5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ac65f6e5.js.map",
-    "static/js/2.057a2ca1.chunk.js": "/static/js/2.057a2ca1.chunk.js",
-    "static/js/2.057a2ca1.chunk.js.map": "/static/js/2.057a2ca1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f18db9b7442cdf928fa32f90fc33dda1.js": "/precache-manifest.f18db9b7442cdf928fa32f90fc33dda1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3b2085b2.chunk.css.map": "/static/css/main.3b2085b2.chunk.css.map",
-    "static/js/2.057a2ca1.chunk.js.LICENSE.txt": "/static/js/2.057a2ca1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/estadio-jose-alvalade.bb577d53.jpg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/kataproj/static/css/main.87151c9b.chunk.css",
+    "main.js": "/kataproj/static/js/main.192a5efa.chunk.js",
+    "main.js.map": "/kataproj/static/js/main.192a5efa.chunk.js.map",
+    "runtime-main.js": "/kataproj/static/js/runtime-main.a12a2f7a.js",
+    "runtime-main.js.map": "/kataproj/static/js/runtime-main.a12a2f7a.js.map",
+    "static/js/2.057a2ca1.chunk.js": "/kataproj/static/js/2.057a2ca1.chunk.js",
+    "static/js/2.057a2ca1.chunk.js.map": "/kataproj/static/js/2.057a2ca1.chunk.js.map",
+    "index.html": "/kataproj/index.html",
+    "precache-manifest.da2224c28996b216f0efd84073161573.js": "/kataproj/precache-manifest.da2224c28996b216f0efd84073161573.js",
+    "service-worker.js": "/kataproj/service-worker.js",
+    "static/css/main.87151c9b.chunk.css.map": "/kataproj/static/css/main.87151c9b.chunk.css.map",
+    "static/js/2.057a2ca1.chunk.js.LICENSE.txt": "/kataproj/static/js/2.057a2ca1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kataproj/static/media/estadio-jose-alvalade.bb577d53.jpg",
+    "static/media/logo.svg": "/kataproj/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac65f6e5.js",
+    "static/js/runtime-main.a12a2f7a.js",
     "static/js/2.057a2ca1.chunk.js",
-    "static/css/main.3b2085b2.chunk.css",
-    "static/js/main.5c1b1642.chunk.js"
+    "static/css/main.87151c9b.chunk.css",
+    "static/js/main.192a5efa.chunk.js"
   ]
 }
